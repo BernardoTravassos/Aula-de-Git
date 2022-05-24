@@ -1,4 +1,14 @@
-ID:
+ID: 1
 Nome: Bernardo de Sá Travassos
 Idade: 32
 Sexo: M
+
+ID: 2
+Nome: José dos Santos
+Idade: 65
+Sexo: M
+
+ID: 3
+Nome: Rosa da Silva
+Idade: 78
+Sexo: F
